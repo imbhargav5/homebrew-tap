@@ -1,6 +1,6 @@
 # imbhargav5/homebrew-tap
 
-Homebrew tap for [Recordly](https://github.com/imbhargav5/open-recorder) — an open-source screen recorder and editor.
+Homebrew tap for [open-recorder](https://github.com/imbhargav5/open-recorder) — an open-source screen recorder and editor.
 
 ## Install
 
